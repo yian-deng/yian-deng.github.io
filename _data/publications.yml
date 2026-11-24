@@ -26,3 +26,28 @@ others:
   - title: An infant-inspired model for robot developing its reaching ability
     authors: Fan Hu, Yian Deng, Wentao Liu, Xihong Wu, Dingsheng Luo*
     conference: Joint IEEE International Conference on Development and Learning and Epigenetic Robotics, 2016.
+
+  - title: Reducing vibration of a rotating machine with deep reinforcement learning
+    authors: Tao Zhang, Yian Deng, Fan Hu, Xiangqi Zhang, et al.
+    conference: IEEE International Conference on Mechatronics and Automation, 2020.
+
+  - title: Multi-frequency attention approach for enhanced ultrasound image segmentation
+    authors: Z Hu, Y Deng, R Ran, N Liu, et al.
+    conference: Intrapartum Ultrasound Grand Challenge, 2024.
+
+  - title: A hierarchical inverse model based on proprioception and dnn for robot reaching
+    authors: Tao Zhang, Fan Hu, Yian Deng, J Zhai, et al.
+    conference: Annual Conference of the IEEE Industrial Electronics Society, 2017.
+    
+  - title: Self-developing proprioception-based robot internal models
+    authors: Tao Zhang, Fan Hu, Yian Deng, Mengxi Nie, et al.
+    conference: International conference on intelligence science, 2018.
+
+  - title: Learning to chase a ball efficiently and smoothly for a wheeled robot
+    authors: Yaoyao Wei, Tianlin Liu, Yian Deng, Xihong Wu, Dingsheng Luo*
+    conference: International Conference on Mechatronics and Machine Vision in Practice, 2017.
+    
+  - title: Developing robot drumming skill with listening-playing loop
+    authors: Xingfang Wu, Tianlin Liu, Yian Deng, Xihong Wu, Dingsheng Luo*
+    conference: International Conference on Swarm Intelligence, 2017.
+  ...

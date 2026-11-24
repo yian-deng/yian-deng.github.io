@@ -1,21 +1,15 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.webp
-    notes: Early Accept
+  - title: Understanding and improving ensemble adversarial defense
+    authors: Yian Deng, Tingting Mu*
+    conference_short: NeurIPS
+    conference: Advances in Neural Information Processing Systems, 2023.
+    pdf: https://proceedings.neurips.cc/paper_files/paper/2023/hash/b589d92785e39486e978fa273d0dc343-Abstract-Conference.html
+    image: ./assets/img/ensemble.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.webp
+  - title: Biped robot falling motion control with human-inspired active compliance
+    authors: Yian Deng, Xiaoqiang Han, Xihong Wu, Dingsheng Luo*
+    conference_short: IROS
+    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems, 2016.
+    pdf: https://www.researchgate.net/publication/311754726_Biped_robot_falling_motion_control_with_human-inspired_active_compliance
+    image: ./assets/img/falling.png

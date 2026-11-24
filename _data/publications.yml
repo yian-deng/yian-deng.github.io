@@ -7,9 +7,16 @@ main:
     pdf: https://proceedings.neurips.cc/paper_files/paper/2023/hash/b589d92785e39486e978fa273d0dc343-Abstract-Conference.html
     image: ./assets/img/ensemble.png
 
+  - title: Faster Riemannian Newton-type optimization by subsampling and cubic regularization
+    authors: Yian Deng, Tingting Mu*
+    conference_short: MACH
+    conference: Machine Learning, 2023.
+    pdf: Faster Riemannian Newton-type optimization by subsampling and cubic regularization
+    image: ./assets/img/manifold.png
+    
   - title: Biped robot falling motion control with human-inspired active compliance
     authors: Yian Deng, Xiaoqiang Han, Xihong Wu, Dingsheng Luo*
     conference_short: IROS
     conference: IEEE/RSJ International Conference on Intelligent Robots and Systems, 2016.
-    pdf: https://www.researchgate.net/publication/311754726_Biped_robot_falling_motion_control_with_human-inspired_active_compliance
+    pdf: https://ieeexplore.ieee.org/document/7759568
     image: ./assets/img/falling.png

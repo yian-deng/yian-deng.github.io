@@ -18,7 +18,7 @@ Before joining BIGAI, I received my Ph.D. in Computer Science from the Universit
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/publications.md %}
+{% include_relative _includes/patents.md %}
 
 {% include_relative _includes/service.md %}
 

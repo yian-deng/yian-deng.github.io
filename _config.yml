@@ -1,23 +1,19 @@
 # Basic Information
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
+title: Yian Deng
+position: Senior Research Engineer
+affiliation: Beijing Institute for General Artificial Intelligence (BIGAI)
 affiliation_link: https://www.example.edu/
-email: yourname (at) example.edu
+email: https://www.bigai.ai/
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant Jekyll theme for an academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Cognitive Planning, Robotics, Computer Vision, Adversarial Learning, Reinforcement Learning  
+description: Personal academic homepage of Yian Deng, Senior Research Engineer at BIGAI, working on agent planning, embodied intelligence, robotics, and reinforcement learning.
+canonical: https://yian-deng.github.io/
 
 # Links
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
-cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+google_scholar: https://scholar.google.com/citations?user=WjDIAUIAAAAJ&hl=zh-CN
 
 # Images (e.g., your profile picture and your website's favicon)
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively.

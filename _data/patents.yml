@@ -1,12 +1,40 @@
 main:
-  - title: "Wheel Contact Point Detection Method, Apparatus, and Storage Medium"
-    inventors: "Yian Deng, ..."
-    patent_number: "ZL2019105521991"
-    status: "Granted"
-    year: 2022
+  - title: 智能体的任务反思验证方法、装置、设备、介质及产品
+    inventors: Yian Deng, Yu Wu, Songchun Zhu
+    patent_number: CN121031644A
+    year: 2025
 
-  - title: "Method, Apparatus, Device, Storage Medium, and Vehicle for Parking Space Detection"
-    inventors: "Yian Deng, ..."
-    patent_number: "ZL2019110192138"
-    status: "Granted"
-    year: 2022
+  - title: 智能体的任务并行规划方法、装置、设备、介质及产品
+    inventors: Yian Deng, Yu Wu, Songchun Zhu
+    patent_number: CN121029244A
+    year: 2025
+
+  - title: 智能体的任务反思触发方法、装置、设备、介质及产品
+    inventors: Yian Deng, Yu Wu, Songchun Zhu
+    patent_number: CN121031645A
+    year: 2025
+
+  - title: 基于智能体的决策方法及装置、介质、设备
+    inventors: Yian Deng, Yu Wu
+    patent_number: CN120106621A
+    year: 2025
+
+  - title: 智能体的异步规划方法、装置、设备、介质及产品
+    inventors: Yian Deng, Yu Wu
+    patent_number: CN119356834A
+    year: 2024
+
+  - title: 智能体的任务规划推理装置、方法、设备、介质及产品
+    inventors: Yu Wu, Ang Li, Hao Chen, Yian Deng
+    patent_number: CN120146202A
+    year: 2025  
+
+  - title: 用于检测车位的方法、装置、设备、存储介质以及车辆
+    inventors: Jie Pan, Yian Deng
+    patent_number: CN110969655A
+    year: 2020
+
+  - title: 车轮接地点检测方法、装置及存储介质
+    inventors: Yian
+    patent_number: CN110246183A
+    year: 2019

@@ -48,3 +48,17 @@
 
 </ol>
 </div>
+
+<h3>Other Publications</h3>
+
+<div class="other-publications">
+<ul>
+{% for link in site.data.publications.others %}
+  <li>
+    {{ link.authors }},
+    <strong>{{ link.title }}</strong>.
+    <em>{{ link.conference }}</em>
+  </li>
+{% endfor %}
+</ul>
+</div>

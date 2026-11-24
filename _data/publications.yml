@@ -20,3 +20,8 @@ main:
     conference: IEEE/RSJ International Conference on Intelligent Robots and Systems, 2016.
     pdf: https://ieeexplore.ieee.org/document/7759568
     image: ./assets/img/falling.png
+
+others:
+  - title: An infant-inspired model for robot developing its reaching ability
+    authors: Fan Hu, Yian Deng, Wentao Liu, Xihong Wu, Dingsheng Luo*
+    conference: Joint IEEE International Conference on Development and Learning and Epigenetic Robotics, 2016.

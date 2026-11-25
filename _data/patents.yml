@@ -19,16 +19,16 @@ main:
     patent_number: CN120106621A
     year: 2025
 
-  - title: 智能体的异步规划方法、装置、设备、介质及产品
-    inventors: Yian Deng, Yu Wu
-    patent_number: CN119356834A
-    year: 2024
-
   - title: 智能体的任务规划推理装置、方法、设备、介质及产品
     inventors: Yu Wu, Ang Li, Hao Chen, Yian Deng
     patent_number: CN120146202A
     year: 2025  
 
+  - title: 智能体的异步规划方法、装置、设备、介质及产品
+    inventors: Yian Deng, Yu Wu
+    patent_number: CN119356834A
+    year: 2024
+    
   - title: 用于检测车位的方法、装置、设备、存储介质以及车辆
     inventors: Jie Pan, Yian Deng
     patent_number: CN110969655A

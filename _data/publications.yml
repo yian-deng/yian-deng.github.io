@@ -11,7 +11,7 @@ main:
     authors: Yian Deng, Tingting Mu*
     conference_short: MACH
     conference: Machine Learning, 2023.
-    pdf: Faster Riemannian Newton-type optimization by subsampling and cubic regularization
+    pdf: https://link.springer.com/content/pdf/10.1007/s10994-023-06321-0.pdf
     image: ./assets/img/manifold.png
     
   - title: Biped robot falling motion control with human-inspired active compliance

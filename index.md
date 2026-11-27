@@ -25,7 +25,7 @@ Before joining BIGAI, I received my Ph.D. in Computer Science from the Universit
 
 - **2024–Present** — Intelligent Robotics Seminar Series, Regular Research Discussant; (Peking University, Shenzhen, and BIGAI).
 - **2016** — Machine Perception and Robotics (MPR2016), Osaka, Japan.
-- 
+  
 ## Honors and Awards
 
 - China Scholarship Council (CSC) Scholarship, 2019–2023

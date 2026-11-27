@@ -15,7 +15,7 @@ main:
     image: ./assets/img/manifold.png
     
   - title: Biped robot falling motion control with human-inspired active compliance
-    authors: Yian Deng, Xiaoqiang Han, Xihong Wu, Dingsheng Luo*
+    authors: Dingsheng Luo, Yian Deng, Xiaoqiang Han, Xihong Wu
     conference_short: IROS
     conference: IEEE/RSJ International Conference on Intelligent Robots and Systems, 2016.
     pdf: https://ieeexplore.ieee.org/document/7759568
@@ -24,7 +24,7 @@ main:
 others:
 
   - title: An infant-inspired model for robot developing its reaching ability
-    authors: Fan Hu, Yian Deng, Wentao Liu, Xihong Wu, Dingsheng Luo*
+    authors: Dingsheng Luo, Fan Hu, Yian Deng, Wentao Liu, Xihong Wu
     conference: Joint IEEE International Conference on Development and Learning and Epigenetic Robotics, 2016.
 
   - title: Reducing vibration of a rotating machine with deep reinforcement learning
@@ -32,7 +32,7 @@ others:
     conference: IEEE International Conference on Mechatronics and Automation, 2020.
 
   - title: Learning task transition from standing-up to walking for a squatted bipedal humanoid robot
-    authors: Yian Deng, Dingsheng Luo*
+    authors: Dingsheng Luo, Yian Deng
     conference: International Conference on Humanoid Robots, 2016.
     
   - title: Multi-frequency attention approach for enhanced ultrasound image segmentation
@@ -48,15 +48,15 @@ others:
     conference: International conference on intelligence science, 2018.
 
   - title: Learning to chase a ball efficiently and smoothly for a wheeled robot
-    authors: Yaoyao Wei, Tianlin Liu, Yian Deng, Xihong Wu, Dingsheng Luo*
+    authors: Yaoyao Wei, Tianlin Liu, Yian Deng, Xihong Wu, Dingsheng Luo
     conference: International Conference on Mechatronics and Machine Vision in Practice, 2017.
     
   - title: Developing robot drumming skill with listening-playing loop
-    authors: Xingfang Wu, Tianlin Liu, Yian Deng, Xihong Wu, Dingsheng Luo*
+    authors: Xingfang Wu, Tianlin Liu, Yian Deng, Xihong Wu, Dingsheng Luo
     conference: International Conference on Swarm Intelligence, 2017.
 
   - title: How does a robot develop its reaching ability like human infants do?
-    authors: Fan Hu, Tao Zhang, Yian Deng, Xihong Wu, et al.
+    authors: Dingsheng Luo, Fan Hu, Tao Zhang, Yian Deng, et al.
     conference: IEEE Transactions on Cognitive and Developmental Systems , 2018.
     
   - title: Corner detection based real-time workpiece recognition for robot manipulation
@@ -66,7 +66,3 @@ others:
   - title: Capturing temporal information with LSTM to stabilize a rotating machine
     authors: Yaoyao Wei, Weiming Qu, Tao Zhang, Yian Deng, et al.
     conference: International Conference on Computer Engineering and Applications, 2022.
-    
-  - title: Humanoid environmental perception with Gaussian process regression
-    authors: Yaoxiang Ding, Xiaoqiang Han, Yang Ma, Yian Deng, et al.
-    conference: International Journal of Advanced Robotic Systems , 2016.

@@ -1,14 +1,14 @@
 main:
 
   - title: Understanding and improving ensemble adversarial defense
-    authors: Yian Deng, Tingting Mu*
+    authors: Yian Deng, Tingting Mu
     conference_short: NeurIPS
     conference: Advances in Neural Information Processing Systems, 2023.
     pdf: https://proceedings.neurips.cc/paper_files/paper/2023/hash/b589d92785e39486e978fa273d0dc343-Abstract-Conference.html
     image: ./assets/img/ensemble.png
 
   - title: Faster Riemannian Newton-type optimization by subsampling and cubic regularization
-    authors: Yian Deng, Tingting Mu*
+    authors: Yian Deng, Tingting Mu
     conference_short: MACH
     conference: Machine Learning, 2023.
     pdf: https://link.springer.com/content/pdf/10.1007/s10994-023-06321-0.pdf

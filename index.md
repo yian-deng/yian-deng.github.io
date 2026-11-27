@@ -15,6 +15,8 @@ Before joining BIGAI, I received my Ph.D. in Computer Science from the Universit
 - **Embodied Intelligence**: Embodied agents, robotic learning, action execution, and multimodal perception
 - **Machine Learning Foundations**: Optimization algorithms, adversarial robustness, and deep reinforcement learning
 
+## News
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/patents.md %}
@@ -31,4 +33,3 @@ Before joining BIGAI, I received my Ph.D. in Computer Science from the Universit
   
 {% include_relative _includes/service.md %}
 
-## News
